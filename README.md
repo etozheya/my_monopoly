@@ -6,6 +6,7 @@ Welcome to Football Monopoly! This is a Java-based implementation of the classic
 * Clone the Repository: Clone this repository to your local machine.
 * Compile: Compile the Java files using any Java compiler.
 * Run: Run the Main class to start the game.
+* Play: Use CLI (Command-line interface) to play the game.
 
 ## Rules
 * Objective: The objective of Football Monopoly is similar to the original Monopoly – become the last player standing without going bankrupt.
